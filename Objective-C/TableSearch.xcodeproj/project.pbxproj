@@ -18,6 +18,7 @@
 		53C962F11959D0CA0099CD7D /* APLResultsTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53C962E91959D0CA0099CD7D /* APLResultsTableController.m */; };
 		902118161D0B4CE5005CDFA7 /* CustomController.m in Sources */ = {isa = PBXBuildFile; fileRef = 902118151D0B4CE5005CDFA7 /* CustomController.m */; };
 		902118191D0B51DB005CDFA7 /* APLBaseTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 902118181D0B51DB005CDFA7 /* APLBaseTableViewController.m */; };
+		9021181B1D0B55AC005CDFA7 /* TableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9021181A1D0B55AC005CDFA7 /* TableCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		902118151D0B4CE5005CDFA7 /* CustomController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomController.m; sourceTree = "<group>"; };
 		902118171D0B51DB005CDFA7 /* APLBaseTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APLBaseTableViewController.h; sourceTree = "<group>"; };
 		902118181D0B51DB005CDFA7 /* APLBaseTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APLBaseTableViewController.m; sourceTree = "<group>"; };
+		9021181A1D0B55AC005CDFA7 /* TableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				532350CA1959D2F700545CD3 /* main.m */,
 				53C962EB1959D0CA0099CD7D /* Prefix.pch */,
 				0497A6F81B3DE7380085AE4B /* LaunchScreen.xib */,
+				9021181A1D0B55AC005CDFA7 /* TableCell.xib */,
 				53C962C11959CFC50099CD7D /* MainStoryboard.storyboard */,
 				53C962BB1959CF970099CD7D /* Images.xcassets */,
 				53C962BD1959CF9F0099CD7D /* Info.plist */,
@@ -176,6 +179,7 @@
 			files = (
 				0497A6FA1B3DE7380085AE4B /* LaunchScreen.xib in Resources */,
 				53C962C51959CFC50099CD7D /* MainStoryboard.storyboard in Resources */,
+				9021181B1D0B55AC005CDFA7 /* TableCell.xib in Resources */,
 				53C962BC1959CF970099CD7D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
