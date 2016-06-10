@@ -8,7 +8,6 @@
 
 #import "APLAppDelegate.h"
 #import "APLProduct.h"
-#import "APLMainTableViewController.h"
 #import "CustomController.h"
 
 @implementation APLAppDelegate
